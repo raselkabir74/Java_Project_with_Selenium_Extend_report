@@ -1,0 +1,11 @@
+D:\PROJECTS\CurrencyExchangeCalculator\automation_project\src\Execute.java
+D:\PROJECTS\CurrencyExchangeCalculator\automation_project\src\mappings\TestNGMappings.java
+D:\PROJECTS\CurrencyExchangeCalculator\automation_project\src\modules\Browser.java
+D:\PROJECTS\CurrencyExchangeCalculator\automation_project\src\pages\basePage.java
+D:\PROJECTS\CurrencyExchangeCalculator\automation_project\src\pages\CurrencyExchangeCalculatorPage.java
+D:\PROJECTS\CurrencyExchangeCalculator\automation_project\src\testSuites\CurrencyExchangeCalculator.java
+D:\PROJECTS\CurrencyExchangeCalculator\automation_project\src\utilities\Common.java
+D:\PROJECTS\CurrencyExchangeCalculator\automation_project\src\utilities\DataDriver.java
+D:\PROJECTS\CurrencyExchangeCalculator\automation_project\src\utilities\FilesUtil.java
+D:\PROJECTS\CurrencyExchangeCalculator\automation_project\src\utilities\LogWriter.java
+D:\PROJECTS\CurrencyExchangeCalculator\automation_project\src\utilities\PropertyReaderWriter.java

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Ext/Jars/extentreports-4.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ext/Jars/extentreports-testng-adapter-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ext/Jars/testng-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ext/Jars/apache-commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ext/Jars/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ext/Jars/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ext/Jars/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ext/Jars/selenium-server-standalone-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ext/Jars/freemarker-2.3.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ext/Jars/ezmorph-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ext/Jars/bson-2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
